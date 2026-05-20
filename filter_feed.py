@@ -19,6 +19,7 @@ WHITELIST = [
     "Sport",
     "Libri",
     "Consumismi",
+    "Storie/Idee",
 ]
 # ======================================
 
