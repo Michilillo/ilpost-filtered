@@ -1,10 +1,10 @@
 # ilpost-filtered
 
-Feed RSS personalizzato de **Il Post**, filtrato per categorie, generato automaticamente ogni 30 minuti via GitHub Actions e pubblicato su GitHub Pages.
+Feed RSS personalizzato de **Il Post**, filtrato per categorie, generato automaticamente ogni 15 minuti via GitHub Actions e pubblicato su GitHub Pages.
 
 ## Come funziona
 
-1. GitHub Actions scarica `https://www.ilpost.it/feed` ogni 30 minuti
+1. GitHub Actions scarica `https://www.ilpost.it/feed` ogni 15 minuti
 2. Lo script `filter_feed.py` mantiene solo gli articoli nelle categorie della tua whitelist
 3. Genera `feed.xml` e fa il commit nel repo
 4. GitHub Pages serve il file come URL pubblico
