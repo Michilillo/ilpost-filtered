@@ -51,7 +51,7 @@ git push -u origin main
 
 ### 3. Prima esecuzione manuale
 
-- Vai su **Actions → Aggiorna feed filtrato Il Post → Run workflow**
+- Vai su **Actions → Filter Il Post Feed → Run workflow**
 - Questo genera subito `feed.xml` senza aspettare
 
 ### 4. URL del tuo feed
@@ -70,5 +70,5 @@ ilpost-filtered/
 ├── README.md
 └── .github/
     └── workflows/
-        └── update-feed.yml         # Workflow GitHub Actions
+        └── filter-feed.yml         # Workflow GitHub Actions
 ```
