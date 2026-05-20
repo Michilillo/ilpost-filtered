@@ -96,10 +96,19 @@ def fetch_and_filter():
     for item_in in channel_in.findall("item"):
 
         # Legge tutte le categorie
-        categories = {
-            (cat.text or "").strip().lower()
-            for cat in item_in.findall("category")
-        }
+        categories = set()
+
+        for child in item_in:
+            if child.tag.endswith("category"):
+
+                category_text = (
+                    (child.text or "")
+                    .strip()
+                    .lower()
+                )
+
+                if category_text:
+                    categories.add(category_text)
 
         # Tiene articoli con almeno una categoria valida
         if not categories.intersection(WHITELIST_LOWER):
