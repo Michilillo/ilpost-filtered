@@ -8,14 +8,17 @@ FEED_URL = "https://www.ilpost.it/feed"
 
 # === CONFIGURA QUI LE TUE CATEGORIE ===
 WHITELIST = [
+    "Italia",
+    "Mondo",
+    "Politica",
     "Tecnologia",
     "Internet",
     "Scienza",
     "Cultura",
     "Economia",
-    "Mondo",
-    "Politica",
-    "Italia",
+    "Sport",
+    "Libri",
+    "Consumismi",
 ]
 # ======================================
 
