@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Il Post [filtrato]</title>
     <link>https://www.ilpost.it</link>
     <description>Feed filtrato — categorie: Italia, Mondo, Politica, Tecnologia, Internet, Scienza, Cultura, Economia, Sport, Libri, Consumismi, Storie/Idee</description>
     <language>it-IT</language>
-    <lastBuildDate>Wed, 20 May 2026 11:00:01 +0000</lastBuildDate>
+    <ns0:link href="https://michilillo.github.io/ilpost-filtered/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>C’era un problema con le tasse: il governo l’ha risolto</title>
       <link>https://www.ilpost.it/2026/05/20/persone-senza-figli-fiscal-drag-imposte-irpef-inflazione/</link>
