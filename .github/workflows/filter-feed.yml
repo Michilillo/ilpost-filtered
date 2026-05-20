@@ -22,7 +22,7 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install feedparser requests
+        run: pip install requests
 
       - name: Run filter script
         run: python filter_feed.py
