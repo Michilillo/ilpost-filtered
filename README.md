@@ -1,74 +1,146 @@
-# ilpost-filtered
+# Il Post Filtered RSS
 
-Feed RSS personalizzato de **Il Post**, filtrato per categorie, generato automaticamente ogni 15 minuti via GitHub Actions e pubblicato su GitHub Pages.
+Feed RSS filtrato de **Il Post**, generato automaticamente tramite Raspberry Pi e pubblicato su GitHub.
 
-## Come funziona
+## Obiettivo del progetto
 
-1. GitHub Actions scarica `https://www.ilpost.it/feed` ogni 15 minuti
-2. Lo script `filter_feed.py` mantiene solo gli articoli nelle categorie della tua whitelist
-3. Genera `feed.xml` e fa il commit nel repo
-4. GitHub Pages serve il file come URL pubblico
+Il feed RSS ufficiale de Il Post contiene articoli provenienti da tutte le categorie del sito.
 
-## Configurazione categorie
+Questo progetto crea automaticamente una versione filtrata del feed, mantenendo solo gli articoli appartenenti alle categorie desiderate.
 
-Modifica `WHITELIST` in `filter_feed.py`:
+Il sistema:
+
+1. scarica il feed RSS ufficiale de Il Post
+2. analizza tutti gli articoli presenti
+3. mantiene solo quelli appartenenti alle categorie selezionate
+4. genera un nuovo file `feed.xml`
+5. pubblica automaticamente il feed aggiornato su GitHub
+
+---
+
+# Feed RSS
+
+Feed aggiornato automaticamente:
+
+```text
+https://raw.githubusercontent.com/Michilillo/ilpost-filtered/main/feed.xml
+```
+
+> È consigliato utilizzare il link RAW GitHub invece di GitHub Pages, perché aggiorna il feed molto più rapidamente ed evita problemi di cache nei reader RSS.
+
+---
+
+# Categorie incluse
+
+Attualmente il feed mantiene articoli appartenenti alle seguenti categorie:
+
+* Italia
+* Mondo
+* Politica
+* Tecnologia
+* Internet
+* Scienza
+* Cultura
+* Economia
+* Sport
+* Libri
+* Consumismi
+* Storie/Idee
+
+Le categorie possono essere modificate facilmente nel file:
+
+```text
+filter_feed.py
+```
+
+all'interno della variabile:
 
 ```python
 WHITELIST = [
-    "Tecnologia",
-    "Internet",
-    "Scienza",
-    "Cultura",
-    "Economia",
-    "Mondo",
-    "Politica",
-    "Italia",
+    ...
 ]
 ```
 
-Categorie disponibili su Il Post:
-`Italia` · `Mondo` · `Politica` · `Tecnologia` · `Internet` · `Scienza` · `Cultura` · `Economia` · `Sport` · `Moda` · `Libri` · `Consumismi` · `Storie/Idee` · `Ok Boomer!`
+---
 
-## Setup iniziale
+# Come funziona
 
-### 1. Crea il repository su GitHub
+## Raspberry Pi
+
+Uno script Python viene eseguito automaticamente ogni 5 minuti tramite `cron` su Raspberry Pi.
+
+Lo script:
+
+* scarica il feed RSS originale
+* filtra gli articoli
+* genera `feed.xml`
+* effettua automaticamente commit e push su GitHub solo quando il feed cambia realmente
+
+---
+
+# Stack utilizzato
+
+* Python 3
+* requests
+* xml.etree.ElementTree
+* GitHub
+* Raspberry Pi
+* cron
+
+---
+
+# Automazione
+
+Il Raspberry Pi esegue automaticamente:
 
 ```bash
-git init
-git add .
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin https://github.com/<TUO-USERNAME>/ilpost-filtered.git
-git push -u origin main
+/home/pi/ilpost-filtered/update.sh
 ```
 
-### 2. Abilita GitHub Pages
+tramite:
 
-- Vai su **Settings → Pages**
-- Source: **Deploy from a branch**
-- Branch: `main` · Folder: `/ (root)`
-- Clicca **Save**
-
-### 3. Prima esecuzione manuale
-
-- Vai su **Actions → Filter Il Post Feed → Run workflow**
-- Questo genera subito `feed.xml` senza aspettare
-
-### 4. URL del tuo feed
-
-```
-https://<TUO-USERNAME>.github.io/ilpost-filtered/feed.xml
+```cron
+*/5 * * * *
 ```
 
-## Struttura file
+Lo script aggiorna il feed solo quando vengono trovati nuovi articoli.
 
+---
+
+# Struttura del progetto
+
+```text
+.
+├── filter_feed.py
+├── feed.xml
+├── update.sh
+└── README.md
 ```
-ilpost-filtered/
-├── filter_feed.py                  # Script di filtraggio
-├── feed.xml                        # Feed generato (auto-aggiornato)
-├── index.html                      # Pagina GitHub Pages
-├── README.md
-└── .github/
-    └── workflows/
-        └── filter-feed.yml         # Workflow GitHub Actions
-```
+
+---
+
+# Note tecniche
+
+Il progetto:
+
+* evita commit inutili
+* evita aggiornamenti continui del feed RSS
+* utilizza un self-reference Atom link per migliorare la compatibilità con i reader RSS
+* mantiene il feed il più compatibile possibile con i principali client RSS
+
+---
+
+# Possibili miglioramenti futuri
+
+* Supporto blacklist categorie
+* Supporto keyword filtering
+* Supporto feed multipli
+* Pubblicazione automatica tramite GitHub Actions
+* Web interface per gestione categorie
+* Docker container
+
+---
+
+# Licenza
+
+Progetto personale open-source distribuito senza garanzia.
