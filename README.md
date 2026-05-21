@@ -32,21 +32,6 @@ https://raw.githubusercontent.com/Michilillo/ilpost-filtered/main/feed.xml
 
 # Categorie incluse
 
-Attualmente il feed mantiene articoli appartenenti alle seguenti categorie:
-
-* Italia
-* Mondo
-* Politica
-* Tecnologia
-* Internet
-* Scienza
-* Cultura
-* Economia
-* Sport
-* Libri
-* Consumismi
-* Storie/Idee
-
 Le categorie possono essere modificate facilmente nel file:
 
 ```text
