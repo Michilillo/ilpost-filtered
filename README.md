@@ -115,17 +115,6 @@ Il progetto:
 
 ---
 
-# Possibili miglioramenti futuri
-
-* Supporto blacklist categorie
-* Supporto keyword filtering
-* Supporto feed multipli
-* Pubblicazione automatica tramite GitHub Actions
-* Web interface per gestione categorie
-* Docker container
-
----
-
 # Licenza
 
 Progetto personale open-source distribuito senza garanzia.
