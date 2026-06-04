@@ -7,7 +7,15 @@
     <language>it-IT</language>
     <ns0:link href="https://michilillo.github.io/ilpost-filtered/feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>I ritrovamenti archeologici sotto la cattedrale di Notre Dame</title>
+      <title>Un tornado a Roma</title>
+      <link>https://www.ilpost.it/2026/06/04/tornado-roma-danni-video/</link>
+      <pubDate>Thu, 04 Jun 2026 07:33:05 +0000</pubDate>
+      <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/04/680x383/1780556886-ilpost_20260604090718932_ec2e14536b490dce3b46029a29d9a4c7.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;All'ora di punta, con un sacco di macchine in giro, un evento meterologico estremo e imprevisto ha causato molti danni, ma nessuno è rimasto ferito in modo grave</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/06/04/tornado-roma-danni-video/</guid>
+      <category>Italia</category>
+    </item>
+    <item>
+      <title>I ritrovamenti archeologici attorno alla cattedrale di Notre-Dame</title>
       <link>https://www.ilpost.it/2026/06/04/ritrovamenti-archeologici-notre-dame/</link>
       <pubDate>Thu, 04 Jun 2026 07:25:35 +0000</pubDate>
       <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/04/680x453/1780554393-C69A7443-1.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;Gli scavi iniziati mesi fa in vista della riqualificazione dell'area stanno facendo emergere mura e oggetti di epoche molto diverse</description>
@@ -532,22 +540,6 @@
       <guid isPermaLink="false">https://www.ilpost.it/2026/06/01/donald-trump-dice-che-israele-e-hezbollah-hanno-concordato-di-non-attaccarsi-a-vicenda/</guid>
       <category>Bits</category>
       <category>Mondo</category>
-    </item>
-    <item>
-      <title>In Albania si protesta contro la costruzione di un resort di lusso</title>
-      <link>https://www.ilpost.it/2026/06/01/albania-proteste-contro-costruzione-resort-di-lusso/</link>
-      <pubDate>Mon, 01 Jun 2026 19:17:47 +0000</pubDate>
-      <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/01/680x363/1780340526-Albania.png" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;Il progetto immobiliare è legato alla società di Jared Kushner, genero di Donald Trump, e dovrebbe occupare in parte un'area protetta</description>
-      <guid isPermaLink="false">https://www.ilpost.it/2026/06/01/albania-proteste-contro-costruzione-resort-di-lusso/</guid>
-      <category>Mondo</category>
-    </item>
-    <item>
-      <title>Tre italiani ai quarti del Roland Garros</title>
-      <link>https://www.ilpost.it/2026/06/01/tennis-flavio-cobolli-quarti-roland-garros/</link>
-      <pubDate>Mon, 01 Jun 2026 17:18:43 +0000</pubDate>
-      <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/01/680x458/1780355488-Arnaldi.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;Sono Flavio Cobolli, Matteo Berrettini e Matteo Arnaldi: non era mai successo che fossero così tanti</description>
-      <guid isPermaLink="false">https://www.ilpost.it/2026/06/01/tennis-flavio-cobolli-quarti-roland-garros/</guid>
-      <category>Sport</category>
     </item>
   </channel>
 </rss>
