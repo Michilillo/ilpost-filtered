@@ -7,6 +7,14 @@
     <language>it-IT</language>
     <ns0:link href="https://michilillo.github.io/ilpost-filtered/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Perché si riparla di doping e ciclismo</title>
+      <link>https://www.ilpost.it/2026/07/24/ciclismo-doping-tour-de-france/</link>
+      <pubDate>Fri, 24 Jul 2026 07:41:49 +0000</pubDate>
+      <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/24/680x453/1784878111-AP26204523990904.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;Non ci sono nuovi casi di positività, ma il binomio si è ripresentato dopo alcuni controlli notturni durante il Tour de France</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/07/24/ciclismo-doping-tour-de-france/</guid>
+      <category>Sport</category>
+    </item>
+    <item>
       <title>La Russa si sta spendendo un sacco per trovare un candidato sindaco a Milano</title>
       <link>https://www.ilpost.it/2026/07/24/milano-la-russa-maurizio-lupi-candidato-sindaco/</link>
       <pubDate>Fri, 24 Jul 2026 06:53:23 +0000</pubDate>
@@ -396,25 +404,6 @@
       <guid isPermaLink="false">https://www.ilpost.it/2026/07/22/ungheria-procuratore-generale-orban-dimissioni/</guid>
       <category>Bits</category>
       <category>Mondo</category>
-    </item>
-    <item>
-      <title>L’italiano Carlo Comporti è stato scelto come presidente dell’ESMA, l’autorità europea di vigilanza sui mercati finanziari</title>
-      <link>https://www.ilpost.it/2026/07/22/carlo-comporti-presidente-esma/</link>
-      <pubDate>Wed, 22 Jul 2026 16:01:01 +0000</pubDate>
-      <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/23/680x453/1784792154-AP17218418890882.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.ilpost.it/2026/07/22/carlo-comporti-presidente-esma/</guid>
-      <category>Bits</category>
-      <category>Economia</category>
-      <category>Konrad</category>
-    </item>
-    <item>
-      <title>Quanto possiamo fidarci delle AI che fanno da sole?</title>
-      <link>https://www.ilpost.it/2026/07/22/agenti-intelligenza-artificiale-openai-hugging-face/</link>
-      <pubDate>Wed, 22 Jul 2026 15:33:17 +0000</pubDate>
-      <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/22/680x439/1784731898-GettyImages-2264737837.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;Per superare un test, due modelli di intelligenza artificiale di OpenAI hanno preso una strada imprevista: attaccare un’altra azienda</description>
-      <guid isPermaLink="false">https://www.ilpost.it/2026/07/22/agenti-intelligenza-artificiale-openai-hugging-face/</guid>
-      <category>Internet</category>
-      <category>Tecnologia</category>
     </item>
   </channel>
 </rss>
