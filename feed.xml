@@ -7,10 +7,19 @@
     <language>it-IT</language>
     <ns0:link href="https://michilillo.github.io/ilpost-filtered/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Nella notte c’è stato un terremoto di magnitudo 4.1 in Molise</title>
+      <link>https://www.ilpost.it/2026/07/25/terremoto-isernia-molise/</link>
+      <pubDate>Sat, 25 Jul 2026 05:09:58 +0000</pubDate>
+      <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/25/680x454/1784956142-KMOnO-terremoto-molise-.png" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/07/25/terremoto-isernia-molise/</guid>
+      <category>Bits</category>
+      <category>Italia</category>
+    </item>
+    <item>
       <title>In Francia 140mila persone sono state evacuate per gli incendi</title>
       <link>https://www.ilpost.it/2026/07/24/francia-evacuazione-penisola-lege-cap-ferret-incendio/</link>
       <pubDate>Fri, 24 Jul 2026 21:20:16 +0000</pubDate>
-      <description>&lt;div&gt;&lt;img src="https://www.ilpost.it/wp-content/uploads/2026/07/24/680x452/1784881184-AP26204493338956.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;Nei dipartimenti della Gironda e delle Landes: il ministro dell’Interno ha parlato di una situazione senza precedenti</description>
+      <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/24/680x452/1784881184-AP26204493338956.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;Nei dipartimenti della Gironda e delle Landes: il ministro dell’Interno ha parlato di una situazione senza precedenti</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/07/24/francia-evacuazione-penisola-lege-cap-ferret-incendio/</guid>
       <category>Mondo</category>
     </item>
@@ -376,14 +385,6 @@
       <guid isPermaLink="false">https://www.ilpost.it/2026/07/23/banca-centrale-europea-tassi-di-interesse-luglio-2026/</guid>
       <category>Bits</category>
       <category>Economia</category>
-    </item>
-    <item>
-      <title>I Mondiali in tre continenti</title>
-      <link>https://www.ilpost.it/2026/07/23/mondiali-calcio-2030-tre-continenti/</link>
-      <pubDate>Thu, 23 Jul 2026 12:17:25 +0000</pubDate>
-      <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/23/680x453/1784797527-GettyImages-2188778403.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;Quelli maschili di calcio del 2030: con partite in 6 paesi e forse 64 squadre</description>
-      <guid isPermaLink="false">https://www.ilpost.it/2026/07/23/mondiali-calcio-2030-tre-continenti/</guid>
-      <category>Sport</category>
     </item>
   </channel>
 </rss>
