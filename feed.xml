@@ -7,10 +7,18 @@
     <language>it-IT</language>
     <ns0:link href="https://michilillo.github.io/ilpost-filtered/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>La storia di Daniel Kinahan, uno dei criminali più ricercati d’Irlanda</title>
+      <link>https://www.ilpost.it/2026/08/10/daniel-kinahan-chi-era/</link>
+      <pubDate>Mon, 10 Aug 2026 10:07:09 +0000</pubDate>
+      <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/10/680x453/1786341990-ilpost_20260810080541892_c07f417a19ae8eb261086978f51d9420.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;E appena estradato dagli Emirati dopo anni di negoziati: era stato attivo per anni nel traffico di armi e droghe in mezzo mondo</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/08/10/daniel-kinahan-chi-era/</guid>
+      <category>Mondo</category>
+    </item>
+    <item>
       <title>Come ha fatto la Georgia a diventare una meta turistica</title>
       <link>https://www.ilpost.it/2026/08/10/turismo-occidentale-georgia/</link>
       <pubDate>Mon, 10 Aug 2026 09:57:52 +0000</pubDate>
-      <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/680x453/1785927063-h_6.23165179.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;Anni di politiche governative e investimenti privati hanno trasformato Tbilisi in una città cool agli occhi degli occidentali</description>
+      <description>&lt;div&gt;&lt;img src="https://www.ilpost.it/wp-content/uploads/2026/08/05/680x453/1785927063-h_6.23165179.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;Anni di politiche governative e investimenti privati hanno trasformato Tbilisi in una città cool agli occhi degli occidentali</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/08/10/turismo-occidentale-georgia/</guid>
       <category>Mondo</category>
     </item>
@@ -26,7 +34,7 @@
       <title>Una settimana come le Olimpiadi, più o meno</title>
       <link>https://www.ilpost.it/2026/08/10/europei-nuoto-atletica-2026-programma-atleti-medaglie/</link>
       <pubDate>Mon, 10 Aug 2026 09:28:55 +0000</pubDate>
-      <description>&lt;div&gt;&lt;img src="https://www.ilpost.it/wp-content/uploads/2026/08/10/680x453/1786354045-Iapicnhinosalto.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;Ci sono gli Europei di nuoto e di atletica leggera, a Parigi e a Birmingham</description>
+      <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/10/680x453/1786354045-Iapicnhinosalto.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;Ci sono gli Europei di nuoto e di atletica leggera, a Parigi e a Birmingham</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/08/10/europei-nuoto-atletica-2026-programma-atleti-medaglie/</guid>
       <category>Sport</category>
     </item>
@@ -543,23 +551,6 @@
       <guid isPermaLink="false">https://www.ilpost.it/2026/08/07/spagna-italia-ultimatum-meloni-sanchez/</guid>
       <category>Italia</category>
       <category>Mondo</category>
-    </item>
-    <item>
-      <title>È morto a 69 anni il produttore discografico William Orbit</title>
-      <link>https://www.ilpost.it/2026/08/07/william-orbit-morto/</link>
-      <pubDate>Fri, 07 Aug 2026 12:15:02 +0000</pubDate>
-      <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/07/680x452/1786104817-GettyImages-143471925.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.ilpost.it/2026/08/07/william-orbit-morto/</guid>
-      <category>Bits</category>
-      <category>Cultura</category>
-    </item>
-    <item>
-      <title>Le banche italiane continuano a guadagnare tantissimo</title>
-      <link>https://www.ilpost.it/2026/08/07/banche-italiane-trimestrali-2026-profitti-tassa-extraprofitti/</link>
-      <pubDate>Fri, 07 Aug 2026 11:30:16 +0000</pubDate>
-      <description>&lt;div&gt;&lt;img src="https://www.ilpost.it/wp-content/uploads/2026/08/07/680x453/1786099761-GettyImages-2278999700.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;Per via dei tassi di interesse elevati fanno profitti record che un pezzo di governo periodicamente prova a tassare, senza riuscirci</description>
-      <guid isPermaLink="false">https://www.ilpost.it/2026/08/07/banche-italiane-trimestrali-2026-profitti-tassa-extraprofitti/</guid>
-      <category>Economia</category>
     </item>
   </channel>
 </rss>
