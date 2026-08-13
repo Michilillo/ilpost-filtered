@@ -7,6 +7,14 @@
     <language>it-IT</language>
     <ns0:link href="https://michilillo.github.io/ilpost-filtered/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>I video di chi ha visto l’eclissi totale</title>
+      <link>https://www.ilpost.it/2026/08/13/eclissi-totale-video/</link>
+      <pubDate>Thu, 13 Aug 2026 07:41:06 +0000</pubDate>
+      <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/13/680x413/1786606454-13.png" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;Dove non c'erano nuvole, in Spagna il momento in cui la Luna ha oscurato il Sole è stato lo spettacolo che ci si aspettava</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/08/13/eclissi-totale-video/</guid>
+      <category>Scienza</category>
+    </item>
+    <item>
       <title>In Cisgiordania i coloni israeliani assediano da giorni due case palestinesi</title>
       <link>https://www.ilpost.it/2026/08/13/cisgiordania-assedio-case-palestinesi/</link>
       <pubDate>Thu, 13 Aug 2026 07:10:33 +0000</pubDate>
@@ -611,15 +619,6 @@
       <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/10/680x453/1786357885-torino-ape.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;Continuano a occupare ampi tratti del fiume, nonostante cinque settimane di interventi</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/08/11/alghe-secca-po-fiume-torino/</guid>
       <category>Italia</category>
-    </item>
-    <item>
-      <title>Una serie di libri molto bizzarra sta avendo un grande successo</title>
-      <link>https://www.ilpost.it/2026/08/11/dungeon-crawler-carl/</link>
-      <pubDate>Tue, 11 Aug 2026 09:12:28 +0000</pubDate>
-      <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/08/680x453/1786204247-Screenshot-2026-08-08-alle-17.50.png" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;“Dungeon Crawler Carl” sembra un gioco di ruolo, ma dalla sua nicchia ha appassionato milioni di persone, anche in Italia</description>
-      <guid isPermaLink="false">https://www.ilpost.it/2026/08/11/dungeon-crawler-carl/</guid>
-      <category>Cultura</category>
-      <category>Libri</category>
     </item>
   </channel>
 </rss>
