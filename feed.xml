@@ -7,6 +7,14 @@
     <language>it-IT</language>
     <ns0:link href="https://michilillo.github.io/ilpost-filtered/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>L’effetto Halle Berry</title>
+      <link>https://www.ilpost.it/2026/08/14/60-anni-halle-berry/</link>
+      <pubDate>Fri, 14 Aug 2026 12:38:18 +0000</pubDate>
+      <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/14/680x453/1786703104-hb-evi.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;È come chiamano a Hollywood le carriere come la sua: da attrice famosissima e premio Oscar al dimenticatoio, oggi che ha 60 anni</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/08/14/60-anni-halle-berry/</guid>
+      <category>Cultura</category>
+    </item>
+    <item>
       <title>Il caso dei genitori che per errore hanno avuto una figlia con l’embrione di altri</title>
       <link>https://www.ilpost.it/2026/08/14/napoli-genitori-figlia-embrione-altra-coppia/</link>
       <pubDate>Fri, 14 Aug 2026 12:20:23 +0000</pubDate>
@@ -634,22 +642,6 @@
       <guid isPermaLink="false">https://www.ilpost.it/2026/08/12/cina-zhu-rongji-ex-premier-riforme-economiche-ingresso/</guid>
       <category>Bits</category>
       <category>Mondo</category>
-    </item>
-    <item>
-      <title>Cos’è questa storia dei vecchi libri distrutti dalle aziende di AI</title>
-      <link>https://www.ilpost.it/2026/08/12/ai-scansione-distruttiva-vecchi-libri/</link>
-      <pubDate>Wed, 12 Aug 2026 13:26:36 +0000</pubDate>
-      <description>&lt;div&gt;&lt;img src="https://www.ilpost.it/wp-content/uploads/2026/08/11/680x453/1786440563-libri-scansione-distruttiva.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;E soprattutto, quanto bisogna allarmarsi?</description>
-      <guid isPermaLink="false">https://www.ilpost.it/2026/08/12/ai-scansione-distruttiva-vecchi-libri/</guid>
-      <category>Cultura</category>
-    </item>
-    <item>
-      <title>L’aeroporto di Catania resterà chiuso fino al 14 agosto</title>
-      <link>https://www.ilpost.it/2026/08/12/catania-aeroporto-voli-sospesi-eruzione-etna/</link>
-      <pubDate>Wed, 12 Aug 2026 10:50:13 +0000</pubDate>
-      <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/12/680x486/1786530996-ilpost_20260812123602299_527537bec34c36fcce326cd0ffcc647e.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;A causa dell'eruzione dell'Etna, per un totale di sette giorni di disagi e circa 700 voli interessati</description>
-      <guid isPermaLink="false">https://www.ilpost.it/2026/08/12/catania-aeroporto-voli-sospesi-eruzione-etna/</guid>
-      <category>Italia</category>
     </item>
   </channel>
 </rss>
