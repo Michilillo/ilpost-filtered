@@ -7,6 +7,15 @@
     <language>it-IT</language>
     <ns0:link href="https://michilillo.github.io/ilpost-filtered/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Un nuovo grosso attacco aereo russo sulla regione di Kyiv</title>
+      <link>https://www.ilpost.it/2026/08/29/attacco-aereo-russia-bucha/</link>
+      <pubDate>Sat, 29 Aug 2026 10:36:09 +0000</pubDate>
+      <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/29/680x453/1787997933-pompieri-ucraina.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;I lanci di droni vanno avanti da giovedì e sono tra i più prolungati dall'inizio della guerra: stanotte hanno ucciso almeno 27 persone</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/08/29/attacco-aereo-russia-bucha/</guid>
+      <category>Guerra in Ucraina</category>
+      <category>Mondo</category>
+    </item>
+    <item>
       <title>Tra Nepal e Tibet ci sono quasi 3mila dispersi</title>
       <link>https://www.ilpost.it/2026/08/29/quarto-giorno-soccorsi-esondazione-nepal-tibet/</link>
       <pubDate>Sat, 29 Aug 2026 09:41:25 +0000</pubDate>
@@ -411,14 +420,6 @@
       <guid isPermaLink="false">https://www.ilpost.it/2026/08/27/cina-petrolio-iran-raffinerie-teiera/</guid>
       <category>Economia</category>
       <category>Mondo</category>
-    </item>
-    <item>
-      <title>Sappiamo qualcosa in più di quando le AI attaccarono un sito da sole</title>
-      <link>https://www.ilpost.it/2026/08/27/openai-hugging-face-rapporti/</link>
-      <pubDate>Thu, 27 Aug 2026 15:46:30 +0000</pubDate>
-      <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/27/680x453/1787836811-AP25100525882493.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;I ricercatori di OpenAI si accorsero solo dopo settimane che alcuni sistemi comunicavano tra loro di nascosto per attaccare un'altra azienda</description>
-      <guid isPermaLink="false">https://www.ilpost.it/2026/08/27/openai-hugging-face-rapporti/</guid>
-      <category>Tecnologia</category>
     </item>
   </channel>
 </rss>
