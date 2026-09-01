@@ -7,10 +7,18 @@
     <language>it-IT</language>
     <ns0:link href="https://michilillo.github.io/ilpost-filtered/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Come cambia Colonne</title>
+      <link>https://www.ilpost.it/2026/09/01/colonne-newsletter-milano-novita/</link>
+      <pubDate>Tue, 01 Sep 2026 09:48:22 +0000</pubDate>
+      <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/01/680x453/1788255355-Colonne26_foglia-1200x800-1.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;La newsletter del Post che racconta Milano uscirà in un formato rinnovato, dopo cinque anni in cui la città stessa è molto cambiata</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/09/01/colonne-newsletter-milano-novita/</guid>
+      <category>Italia</category>
+    </item>
+    <item>
       <title>È morto Enzo Bianchi</title>
       <link>https://www.ilpost.it/2026/09/01/enzo-bianchi-morto/</link>
       <pubDate>Tue, 01 Sep 2026 09:37:59 +0000</pubDate>
-      <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/01/680x454/1788255211-ilpost_20260901113255148_TECNAVIA_PHOTO_GENERALE_1347630.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;Monaco, teologo cristiano e fondatore del Monastero di Bose: aveva 83 anni</description>
+      <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/01/680x454/1788255211-ilpost_20260901113255148_TECNAVIA_PHOTO_GENERALE_1347630.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;Era un noto monaco e teologo, nonché fondatore del famoso e innovativo monastero di Bose: aveva 83 anni</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/09/01/enzo-bianchi-morto/</guid>
       <category>Italia</category>
     </item>
@@ -535,14 +543,6 @@
       <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/30/680x453/1788074514-AP26242210006928.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;È stata uccisa una donna italiana e diverse persone sono state ferite; non si sa ancora chi sia stato</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/08/30/festival-svizzera-spari-morto-feriti/</guid>
       <category>Mondo</category>
-    </item>
-    <item>
-      <title>Pogačar dovrà essere operato alla clavicola</title>
-      <link>https://www.ilpost.it/2026/08/30/pogacar-dovra-essere-operato-alla-clavicola/</link>
-      <pubDate>Sun, 30 Aug 2026 06:13:23 +0000</pubDate>
-      <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/30/680x453/1788070058-ilpost_20260830080721917_75cef24481cde25ec659208a8383772b.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;Dopo la brutta caduta di sabato alla Vuelta di Spagna; e tra meno di un mese ci sono i mondiali</description>
-      <guid isPermaLink="false">https://www.ilpost.it/2026/08/30/pogacar-dovra-essere-operato-alla-clavicola/</guid>
-      <category>Sport</category>
     </item>
   </channel>
 </rss>
