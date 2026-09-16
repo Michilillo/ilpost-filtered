@@ -7,10 +7,19 @@
     <language>it-IT</language>
     <ns0:link href="https://michilillo.github.io/ilpost-filtered/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>La Cassazione sta provando l’AI per smaltire i ricorsi più in fretta</title>
+      <link>https://www.ilpost.it/2026/09/16/corte-cassazione-intelligenza-artificiale/</link>
+      <pubDate>Wed, 16 Sep 2026 07:14:52 +0000</pubDate>
+      <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/680x453/1789540771-23282790_large.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;La sperimentazione non riguarda i giudizi ma la fase preliminare in cui si valuta il rispetto dei requisiti formali, e sembra sia andata bene</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/09/16/corte-cassazione-intelligenza-artificiale/</guid>
+      <category>Italia</category>
+      <category>Tecnologia</category>
+    </item>
+    <item>
       <title>L’alternativa russa a Starlink non sta procedendo bene</title>
       <link>https://www.ilpost.it/2026/09/16/starlink-russo-problemi/</link>
       <pubDate>Wed, 16 Sep 2026 07:03:25 +0000</pubDate>
-      <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/15/680x453/1789485756-AP26195688942818.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;Rassvet dovrebbe fornire un nuovo sistema per le comunicazioni al fronte, ma dei 32 satelliti mandati in orbita nessuno è arrivato dove doveva</description>
+      <description>&lt;div&gt;&lt;img src="https://www.ilpost.it/wp-content/uploads/2026/09/15/680x453/1789485756-AP26195688942818.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;Rassvet dovrebbe fornire un nuovo sistema per le comunicazioni al fronte, ma dei 32 satelliti mandati in orbita nessuno è arrivato dove doveva</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/09/16/starlink-russo-problemi/</guid>
       <category>Guerra in Ucraina</category>
       <category>Mondo</category>
@@ -633,15 +642,6 @@
       <guid isPermaLink="false">https://www.ilpost.it/2026/09/14/us-open-vip-pubblico-2026/</guid>
       <category>Cultura</category>
       <category>Sport</category>
-    </item>
-    <item>
-      <title>È in corso uno sciopero di 24 ore dei lavoratori dell’indotto dell’ex ILVA di Taranto</title>
-      <link>https://www.ilpost.it/2026/09/14/sindacati-sciopero-lavoratori-appalto-ex-ilva-taranto/</link>
-      <pubDate>Mon, 14 Sep 2026 09:14:02 +0000</pubDate>
-      <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/14/680x383/1789374901-ILVA.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.ilpost.it/2026/09/14/sindacati-sciopero-lavoratori-appalto-ex-ilva-taranto/</guid>
-      <category>Bits</category>
-      <category>Italia</category>
     </item>
   </channel>
 </rss>
