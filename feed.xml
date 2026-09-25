@@ -7,6 +7,15 @@
     <language>it-IT</language>
     <ns0:link href="https://michilillo.github.io/ilpost-filtered/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Dobbiamo liberarci di miliardi di mascherine inutilizzate</title>
+      <link>https://www.ilpost.it/2026/09/25/smaltimento-mascherine-covid-avanzate/</link>
+      <pubDate>Fri, 25 Sep 2026 13:33:16 +0000</pubDate>
+      <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/25/680x453/1790332370-mascherine.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;Sono avanzate dal Covid e custodirle costa un sacco: il governo ha provato a venderle, poi a regalarle, e ora nominerà un commissario</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/09/25/smaltimento-mascherine-covid-avanzate/</guid>
+      <category>Italia</category>
+      <category>Politica</category>
+    </item>
+    <item>
       <title>Celebripost</title>
       <link>https://www.ilpost.it/2026/09/25/celebripost-635/</link>
       <pubDate>Fri, 25 Sep 2026 12:59:49 +0000</pubDate>
@@ -517,14 +526,6 @@
       <guid isPermaLink="false">https://www.ilpost.it/2026/09/24/martin-ryana-liberato-azerbaigian-sanzioni-usmanov-russia/</guid>
       <category>Bits</category>
       <category>Mondo</category>
-    </item>
-    <item>
-      <title>Alcune AI di OpenAI hanno violato un sito della sanità pubblica australiana</title>
-      <link>https://www.ilpost.it/2026/09/24/openai-agente-sanita-pubblica-australia/</link>
-      <pubDate>Thu, 24 Sep 2026 05:13:32 +0000</pubDate>
-      <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/24/680x453/1790226244-AP26266692037301.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;Il governo ha avviato un'indagine sull'accesso non autorizzato e sta valutando azioni legali contro l'azienda</description>
-      <guid isPermaLink="false">https://www.ilpost.it/2026/09/24/openai-agente-sanita-pubblica-australia/</guid>
-      <category>Tecnologia</category>
     </item>
   </channel>
 </rss>
