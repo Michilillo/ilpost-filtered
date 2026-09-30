@@ -7,10 +7,19 @@
     <language>it-IT</language>
     <ns0:link href="https://michilillo.github.io/ilpost-filtered/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>La campagna di nuovi attacchi contro i civili di Kyiv decisa da Putin</title>
+      <link>https://www.ilpost.it/2026/09/30/guerra-russa-alle-citta-kyiv-ucraina/</link>
+      <pubDate>Wed, 30 Sep 2026 09:25:56 +0000</pubDate>
+      <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/30/680x454/1790751600-GettyImages-2297033324.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;I nuovi droni russi, veloci e difficili da intercettare, hanno cambiato la vita in città: nessuno sa dove colpiranno e i morti sono aumentati</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/09/30/guerra-russa-alle-citta-kyiv-ucraina/</guid>
+      <category>Guerra in Ucraina</category>
+      <category>Mondo</category>
+    </item>
+    <item>
       <title>La misteriosa morte della nipote di Hitler</title>
       <link>https://www.ilpost.it/2026/09/30/adolf-hitler-geli-raubal/</link>
       <pubDate>Wed, 30 Sep 2026 09:15:18 +0000</pubDate>
-      <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/30/680x453/1790755518-AP340201025.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;Alcuni documenti scoperti da poco alimentano nuovi sospetti sul possibile coinvolgimento dello zio, una tesi screditata ma dibattuta da sempre</description>
+      <description>&lt;div&gt;&lt;img src="https://www.ilpost.it/wp-content/uploads/2026/09/30/680x453/1790755518-AP340201025.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;Alcuni documenti scoperti da poco alimentano nuovi sospetti sul possibile coinvolgimento dello zio, una tesi screditata ma dibattuta da sempre</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/09/30/adolf-hitler-geli-raubal/</guid>
       <category>Cultura</category>
     </item>
@@ -622,14 +631,6 @@
       <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/28/680x453/1790582857-AP26271276894982.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;Si trova a ovest di Londra ed è usata dagli Stati Uniti: i cinque uomini arrestati, cittadini britannici, sono stati liberati su cauzione</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/09/28/operazione-antiterrorismo-arresti-base-militare-raf-fairford-inghilterra/</guid>
       <category>Mondo</category>
-    </item>
-    <item>
-      <title>Quanto possiamo fidarci di Pangram?</title>
-      <link>https://www.ilpost.it/2026/09/28/pangram-riconoscimento-testo-ai/</link>
-      <pubDate>Mon, 28 Sep 2026 10:20:14 +0000</pubDate>
-      <description>&lt;div&gt;&lt;img src="https://www.ilpost.it/wp-content/uploads/2026/09/28/680x363/1790590741-prova-.jpeg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;È il software di riferimento per riconoscere i testi generati dall'AI, ma anche i suoi responsi andrebbero presi con cautela</description>
-      <guid isPermaLink="false">https://www.ilpost.it/2026/09/28/pangram-riconoscimento-testo-ai/</guid>
-      <category>Tecnologia</category>
     </item>
   </channel>
 </rss>
