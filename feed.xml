@@ -7,6 +7,14 @@
     <language>it-IT</language>
     <ns0:link href="https://michilillo.github.io/ilpost-filtered/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Cosa ha raccontato il responsabile della sicurezza di OpenAI che si è dimesso</title>
+      <link>https://www.ilpost.it/2026/10/05/lettera-responsabile-sicurezza-openai/</link>
+      <pubDate>Mon, 05 Oct 2026 15:32:07 +0000</pubDate>
+      <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/680x453/1791209369-AP26272706519882.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;Ha parlato di «cultura aziendale compromessa», falle nei sistemi di sicurezza e molte lacune umane e caratteriali</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/10/05/lettera-responsabile-sicurezza-openai/</guid>
+      <category>Cultura</category>
+    </item>
+    <item>
       <title>La Rai ha sospeso Sigfrido Ranucci per dieci giorni</title>
       <link>https://www.ilpost.it/2026/10/05/rai-sospeso-sigfrido-ranucci/</link>
       <pubDate>Mon, 05 Oct 2026 15:27:43 +0000</pubDate>
@@ -586,16 +594,6 @@
       <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/03/680x453/1791019273-ilpost_20261003112055751_d52d8c71803b8551ca26095100fe0226.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;E cioè Giuseppe Conte, ma dovrà convincere tutti gli altri a farsi da parte</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/10/03/elly-schlein-primarie/</guid>
       <category>Politica</category>
-    </item>
-    <item>
-      <title>Per la prima volta l’Ucraina ha usato contro la Russia un missile balistico di produzione nazionale</title>
-      <link>https://www.ilpost.it/2026/10/03/missile-balistico-produzione-ucraina-zelensky/</link>
-      <pubDate>Sat, 03 Oct 2026 08:40:01 +0000</pubDate>
-      <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/03/680x425/1791016459-missile.png" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.ilpost.it/2026/10/03/missile-balistico-produzione-ucraina-zelensky/</guid>
-      <category>Bits</category>
-      <category>Guerra in Ucraina</category>
-      <category>Mondo</category>
     </item>
   </channel>
 </rss>
