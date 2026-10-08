@@ -7,10 +7,18 @@
     <language>it-IT</language>
     <ns0:link href="https://michilillo.github.io/ilpost-filtered/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Una storia come tante in un quartiere difficile di Bologna</title>
+      <link>https://www.ilpost.it/2026/10/08/periferie-bologna-disagio-sociale-bolognina/</link>
+      <pubDate>Thu, 08 Oct 2026 13:34:47 +0000</pubDate>
+      <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/07/680x544/1791359272-h_01401840.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;In Bolognina, l'incendio nell'appartamento di una donna con problemi psichiatrici e di abuso di sostanze mostra come sia difficile “agganciare” le persone fragili per aiutarle</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/10/08/periferie-bologna-disagio-sociale-bolognina/</guid>
+      <category>Italia</category>
+    </item>
+    <item>
       <title>Il più grande problema del tennis contemporaneo</title>
       <link>https://www.ilpost.it/2026/10/08/infortuni-tennisti-perche-sinner-alcaraz/</link>
       <pubDate>Thu, 08 Oct 2026 13:23:59 +0000</pubDate>
-      <description>&lt;div&gt;&lt;img src="https://www.ilpost.it/wp-content/uploads/2026/10/08/680x453/1791447894-Sinnerrotto.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;Gli infortuni</description>
+      <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/08/680x453/1791447894-Sinnerrotto.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;Gli infortuni</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/10/08/infortuni-tennisti-perche-sinner-alcaraz/</guid>
       <category>Sport</category>
     </item>
@@ -487,14 +495,6 @@
       <guid isPermaLink="false">https://www.ilpost.it/2026/10/07/commissariamento-figc-giovanni-malago-buonfiglio-rapporti-influenza-politica/</guid>
       <category>Sport</category>
       <category>virgolette</category>
-    </item>
-    <item>
-      <title>Amazon vuole essere navigato dalle persone, non dalle AI</title>
-      <link>https://www.ilpost.it/2026/10/07/amazon-blocca-muse/</link>
-      <pubDate>Wed, 07 Oct 2026 08:33:14 +0000</pubDate>
-      <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/06/680x453/1791292207-muse-meta.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;Perché potrebbe perderci molti soldi, e infatti ha bloccato l’accesso a Muse, il nuovo agente di Meta</description>
-      <guid isPermaLink="false">https://www.ilpost.it/2026/10/07/amazon-blocca-muse/</guid>
-      <category>Tecnologia</category>
     </item>
   </channel>
 </rss>
