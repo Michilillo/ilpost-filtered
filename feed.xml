@@ -7,6 +7,14 @@
     <language>it-IT</language>
     <ns0:link href="https://michilillo.github.io/ilpost-filtered/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Celebripost</title>
+      <link>https://www.ilpost.it/2026/10/09/celebripost-637/</link>
+      <pubDate>Fri, 09 Oct 2026 13:22:08 +0000</pubDate>
+      <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/09/680x453/1791541854-ilpost_20261009115557693_3de01585ad919113c57319f54d9ee8d8.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;Con Penélope Cruz, Florence Pugh, Emma Stone e chi ha vinto un premio Nobel</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/10/09/celebripost-637/</guid>
+      <category>Cultura</category>
+    </item>
+    <item>
       <title>Che fine ha fatto il Covid</title>
       <link>https://www.ilpost.it/2026/10/09/covid-19-coronavirus-vaccini/</link>
       <pubDate>Fri, 09 Oct 2026 12:42:46 +0000</pubDate>
@@ -541,22 +549,6 @@
       <guid isPermaLink="false">https://www.ilpost.it/2026/10/08/disastro-andria-conferma-cassazione/</guid>
       <category>Bits</category>
       <category>Italia</category>
-    </item>
-    <item>
-      <title>Qualcuno ha manomesso la segreteria telefonica della Corea del Nord all’ONU</title>
-      <link>https://www.ilpost.it/2026/10/08/segreteria-telefonica-missione-permanente-onu-corea-nord/</link>
-      <pubDate>Thu, 08 Oct 2026 05:53:11 +0000</pubDate>
-      <description>&lt;div&gt;&lt;img src="https://www.ilpost.it/wp-content/uploads/2026/10/07/680x453/1791386983-AP26271604448758.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;Per giorni ha risposto una voce femminile che imitava l’accento asiatico e prendeva in giro il paese e il suo governo</description>
-      <guid isPermaLink="false">https://www.ilpost.it/2026/10/08/segreteria-telefonica-missione-permanente-onu-corea-nord/</guid>
-      <category>Mondo</category>
-    </item>
-    <item>
-      <title>Guadagnare milioni truffando le piattaforme di musica</title>
-      <link>https://www.ilpost.it/2026/10/08/michael-smith-intelligenza-artificiale-condanna/</link>
-      <pubDate>Thu, 08 Oct 2026 05:26:54 +0000</pubDate>
-      <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/08/680x453/1791433647-Mike_Smith_2019.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;L'ha fatto lo statunitense Michael Smith usando l'AI: è stato condannato a 18 mesi di carcere</description>
-      <guid isPermaLink="false">https://www.ilpost.it/2026/10/08/michael-smith-intelligenza-artificiale-condanna/</guid>
-      <category>Cultura</category>
     </item>
   </channel>
 </rss>
