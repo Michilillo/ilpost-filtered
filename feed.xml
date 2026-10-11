@@ -3,7 +3,7 @@
   <channel>
     <title>Il Post [filtrato]</title>
     <link>https://www.ilpost.it</link>
-    <description>Feed filtrato — categorie: Italia, Mondo, Politica, Tecnologia, Internet, Scienza, Cultura, Economia, Libri, Consumismi, Storie/Idee; tag: Tennis, Formula 1, MotoGP</description>
+    <description>Feed filtrato — categorie: Italia, Mondo, Politica, Tecnologia, Internet, Scienza, Cultura, Economia, Sport, Libri, Consumismi, Storie/Idee</description>
     <language>it-IT</language>
     <ns0:link href="https://michilillo.github.io/ilpost-filtered/feed.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -34,12 +34,30 @@
       <category>Mondo</category>
     </item>
     <item>
+      <title>Il ciclista francese Paul Seixas ha vinto la 120ª edizione del Giro di Lombardia</title>
+      <link>https://www.ilpost.it/2026/10/10/paul-seixas-vince-giro-di-lombardia-2026-ciclismo/</link>
+      <pubDate>Sat, 10 Oct 2026 15:08:26 +0000</pubDate>
+      <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/10/680x453/1791644526-GettyImages-2299526643.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/10/10/paul-seixas-vince-giro-di-lombardia-2026-ciclismo/</guid>
+      <category>Bits</category>
+      <category>Sport</category>
+    </item>
+    <item>
       <title>Anche le persone disabili diventano adulte</title>
       <link>https://www.ilpost.it/2026/10/10/ninotti-anche-i-disabili-diventano-adulti/</link>
       <pubDate>Sat, 10 Oct 2026 14:38:59 +0000</pubDate>
       <description>&lt;div&gt;&lt;img src="https://www.ilpost.it/wp-content/uploads/2026/07/14/680x452/1784017469-disabilita.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;«Fino all’adolescenza per i ragazzi disabili esistono aiuti, per quanto imperfetti. Dopo, il sistema si concentra sulla “listadattesa”, una specie di orizzonte degli eventi dove il tempo scorre diversamente»</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/10/10/ninotti-anche-i-disabili-diventano-adulti/</guid>
       <category>Storie/Idee</category>
+    </item>
+    <item>
+      <title>Cristiano Ronaldo è stato sospeso dalla nazionale portoghese</title>
+      <link>https://www.ilpost.it/2026/10/10/cristiano-ronaldo-sospeso-nazionale-portoghese/</link>
+      <pubDate>Sat, 10 Oct 2026 14:37:44 +0000</pubDate>
+      <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/10/680x453/1791642206-cr7.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/10/10/cristiano-ronaldo-sospeso-nazionale-portoghese/</guid>
+      <category>Bits</category>
+      <category>Sport</category>
     </item>
     <item>
       <title>Mahmoud Abbas ha rimandato le elezioni nei territori palestinesi, di nuovo</title>
@@ -110,6 +128,14 @@
       <category>Italia</category>
     </item>
     <item>
+      <title>L’hockey su ghiaccio è tornato a Milano</title>
+      <link>https://www.ilpost.it/2026/10/10/hockey-su-ghiaccio-milano-prima-partita/</link>
+      <pubDate>Sat, 10 Oct 2026 10:28:14 +0000</pubDate>
+      <description>&lt;div&gt;&lt;img src="https://www.ilpost.it/wp-content/uploads/2026/10/10/680x510/1791620858-PEM-ILPOST-ICEFIERARHO-1026-15.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;Venerdì una nuova squadra ha giocato la prima partita nella nuova, e temporanea, Fiera Ice Arena: tra i tifosi c'era grande entusiasmo</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/10/10/hockey-su-ghiaccio-milano-prima-partita/</guid>
+      <category>Sport</category>
+    </item>
+    <item>
       <title>La repressione della grande protesta del “Partito degli scarafaggi” in India</title>
       <link>https://www.ilpost.it/2026/10/10/india-proteste-nuova-delhi-scarafaggi/</link>
       <pubDate>Sat, 10 Oct 2026 08:37:21 +0000</pubDate>
@@ -124,6 +150,14 @@
       <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/09/680x431/1791565370-ilpost_20261009184838533_ad13a634c604b9929907552a53a30226.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;Com'è che un'espressione in latino maccheronico nata con intento satirico è diventata una tradizione, di cui anche i politici approfittano</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/10/10/stabilicum-porcellum-e-la-storia-dei-nomi-strambi-delle-leggi-elettorali/</guid>
       <category>Politica</category>
+    </item>
+    <item>
+      <title>La Cina non è più così imbattibile a tennistavolo</title>
+      <link>https://www.ilpost.it/2026/10/10/cina-tennistavolo-sconfitte-storia/</link>
+      <pubDate>Sat, 10 Oct 2026 07:34:15 +0000</pubDate>
+      <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/09/680x453/1791551915-Cinatennistavolo.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;Nelle prime tre posizioni del ranking maschile non c’è nemmeno un atleta cinese: non succedeva dal 1998</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/10/10/cina-tennistavolo-sconfitte-storia/</guid>
+      <category>Sport</category>
     </item>
     <item>
       <title>Il costo delle cure mediche ricevute in Svizzera dai 12 italiani feriti nell’incendio di Crans-Montana è di circa 1,6 milioni di euro</title>
@@ -141,6 +175,15 @@
       <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/10/680x453/1791614500-AP21162465218426.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;Non è abbastanza per far scendere i prezzi del carburante in modo consistente, e finirà soprattutto per legittimare il regime russo</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/10/10/accordo-diesel-trump-putin/</guid>
       <category>Mondo</category>
+    </item>
+    <item>
+      <title>La finale della WNBA sarà Golden State Valkyries-Atlanta Dream</title>
+      <link>https://www.ilpost.it/2026/10/10/finali-wnba/</link>
+      <pubDate>Sat, 10 Oct 2026 05:52:23 +0000</pubDate>
+      <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/10/680x453/1791611267-gsv.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/10/10/finali-wnba/</guid>
+      <category>Bits</category>
+      <category>Sport</category>
     </item>
     <item>
       <title>Donald Trump ha detto che la Russia fornirà 300mila tonnellate di gasolio «al mercato statunitense e globale»</title>
@@ -167,6 +210,15 @@
       <guid isPermaLink="false">https://www.ilpost.it/2026/10/09/katie-zacharia-nuova-portavoce-casa-bianca/</guid>
       <category>Bits</category>
       <category>Mondo</category>
+    </item>
+    <item>
+      <title>L’Italia ha battuto la Bielorussia 2-0 nella semifinale d’andata delle qualificazioni per i Mondiali femminili</title>
+      <link>https://www.ilpost.it/2026/10/09/italia-bielorussia-2-0-qualificazioni-mondiali/</link>
+      <pubDate>Fri, 09 Oct 2026 18:20:05 +0000</pubDate>
+      <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/09/680x453/1791573665-mp.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/10/09/italia-bielorussia-2-0-qualificazioni-mondiali/</guid>
+      <category>Bits</category>
+      <category>Sport</category>
     </item>
     <item>
       <title>Il tribunale di Roma ha respinto il ricorso con cui Sigfrido Ranucci chiedeva di essere reintegrato alla conduzione di “Report”</title>
@@ -264,6 +316,14 @@
       <category>Scienza</category>
     </item>
     <item>
+      <title>La corsa che non c’è</title>
+      <link>https://www.ilpost.it/2026/10/09/giro-di-lombardia-femminile-non-esiste/</link>
+      <pubDate>Fri, 09 Oct 2026 13:53:00 +0000</pubDate>
+      <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/09/680x453/1791549258-GettyImages-1278389905.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;Nel ciclismo il Giro di Lombardia maschile c’è dal 1905, quello femminile ancora no: è colpa del traffico, dicono</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/10/09/giro-di-lombardia-femminile-non-esiste/</guid>
+      <category>Sport</category>
+    </item>
+    <item>
       <title>Cosa sappiamo su quando si voterà</title>
       <link>https://www.ilpost.it/2026/10/09/elezioni-data-legislatura-voto-anticipato-legge-elettorale/</link>
       <pubDate>Fri, 09 Oct 2026 13:52:51 +0000</pubDate>
@@ -356,6 +416,23 @@
       <category>Mondo</category>
     </item>
     <item>
+      <title>L’ex designatore degli arbitri Gianluca Rocchi farà l’opinionista su DAZN</title>
+      <link>https://www.ilpost.it/2026/10/09/rocchi-arbitro-opinionista-dazn/</link>
+      <pubDate>Fri, 09 Oct 2026 09:57:29 +0000</pubDate>
+      <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/09/680x453/1791536248-22635817_large.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/10/09/rocchi-arbitro-opinionista-dazn/</guid>
+      <category>Bits</category>
+      <category>Sport</category>
+    </item>
+    <item>
+      <title>Il basket ai tempi dell’ultimo derby di Roma in Serie A</title>
+      <link>https://www.ilpost.it/2026/10/09/basket-italiano-1980-derby-acqua-fabia-roma-eldorado-lazio/</link>
+      <pubDate>Fri, 09 Oct 2026 09:49:29 +0000</pubDate>
+      <description>&lt;div&gt;&lt;img src="https://www.ilpost.it/wp-content/uploads/2026/10/07/680x426/1791403290-Screenshot-2026-10-07-at-22.00.29.png" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;Nel 1980 lo sport era molto diverso, e le squadre italiane molto più forti di oggi</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/10/09/basket-italiano-1980-derby-acqua-fabia-roma-eldorado-lazio/</guid>
+      <category>Sport</category>
+    </item>
+    <item>
       <title>In Brasile è stato emesso un mandato di arresto contro Eduardo Bolsonaro, figlio di Jair e fratello di Flávio</title>
       <link>https://www.ilpost.it/2026/10/09/brasile-mandato-arresto-eduardo-bolsonaro/</link>
       <pubDate>Fri, 09 Oct 2026 09:07:56 +0000</pubDate>
@@ -397,6 +474,15 @@
       <category>Italia</category>
     </item>
     <item>
+      <title>Aleksander Čeferin, il principale critico di Gianni Infantino, si candiderà per il quarto e ultimo mandato da presidente della UEFA</title>
+      <link>https://www.ilpost.it/2026/10/09/aleksander-ceferin-ricandidera-presidenza-uefa/</link>
+      <pubDate>Fri, 09 Oct 2026 07:44:04 +0000</pubDate>
+      <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/09/680x453/1791530254-24293191_large.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/10/09/aleksander-ceferin-ricandidera-presidenza-uefa/</guid>
+      <category>Bits</category>
+      <category>Sport</category>
+    </item>
+    <item>
       <title>Com’è fatta e cosa prevede la nuova legge elettorale</title>
       <link>https://www.ilpost.it/2026/10/09/legge-elettorale-come-si-vota-stabilicum-melonellum-elezioni-politiche-2027/</link>
       <pubDate>Fri, 09 Oct 2026 07:26:34 +0000</pubDate>
@@ -421,6 +507,15 @@
       <category>Mondo</category>
     </item>
     <item>
+      <title>A’ja Wilson è stata nominata per la quinta volta migliore giocatrice della WNBA, il campionato di basket femminile statunitense</title>
+      <link>https://www.ilpost.it/2026/10/09/aja-wilson-mvp-wnba-2026/</link>
+      <pubDate>Fri, 09 Oct 2026 06:40:11 +0000</pubDate>
+      <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/09/680x453/1791527297-Wilsonaja.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/10/09/aja-wilson-mvp-wnba-2026/</guid>
+      <category>Bits</category>
+      <category>Sport</category>
+    </item>
+    <item>
       <title>Nel Regno Unito i Laburisti hanno vinto le suppletive nel collegio di Keir Starmer, primo test per il primo ministro Andy Burnham</title>
       <link>https://www.ilpost.it/2026/10/09/regno-unito-elezioni-suppletive-holborn-e-st-pancras/</link>
       <pubDate>Fri, 09 Oct 2026 06:17:36 +0000</pubDate>
@@ -428,6 +523,14 @@
       <guid isPermaLink="false">https://www.ilpost.it/2026/10/09/regno-unito-elezioni-suppletive-holborn-e-st-pancras/</guid>
       <category>Bits</category>
       <category>Mondo</category>
+    </item>
+    <item>
+      <title>L’Italia prova di nuovo ad andare ai Mondiali di calcio</title>
+      <link>https://www.ilpost.it/2026/10/09/italia-calcio-femminile-qualificazione-playoff-mondiali-calcio-2027/</link>
+      <pubDate>Fri, 09 Oct 2026 06:03:16 +0000</pubDate>
+      <description>&lt;div&gt;&lt;img src="https://www.ilpost.it/wp-content/uploads/2026/10/07/680x453/1791362381-AP25197738192497.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;Quelli femminili del 2027: oggi c'è la prima di – speriamo – quattro partite molto importanti, per non fare come la Nazionale maschile</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/10/09/italia-calcio-femminile-qualificazione-playoff-mondiali-calcio-2027/</guid>
+      <category>Sport</category>
     </item>
     <item>
       <title>Il Pentagono vuole trasmettere in diretta streaming la fucilazione dell’autore della strage di Fort Hood</title>
@@ -445,343 +548,6 @@
       <guid isPermaLink="false">https://www.ilpost.it/2026/10/09/ice-new-york-agente-spara-uomo-bambino-auto/</guid>
       <category>Bits</category>
       <category>Mondo</category>
-    </item>
-    <item>
-      <title>Il più grande problema del tennis contemporaneo</title>
-      <link>https://www.ilpost.it/2026/10/08/infortuni-tennisti-perche-sinner-alcaraz/</link>
-      <pubDate>Thu, 08 Oct 2026 13:23:59 +0000</pubDate>
-      <description>Gli infortuni</description>
-      <guid isPermaLink="false">https://www.ilpost.it/?p=3698138</guid>
-      <category>Sport</category>
-      <category>tennis</category>
-    </item>
-    <item>
-      <title>Ma quindi cos’ha Jannik Sinner?</title>
-      <link>https://www.ilpost.it/2026/10/07/jannik-sinner-infortunio-2027-ginocchio/</link>
-      <pubDate>Wed, 07 Oct 2026 07:56:23 +0000</pubDate>
-      <description>Qualcosa al ginocchio, ma cosa di preciso non si sa, e forse non lo sa nemmeno lui</description>
-      <guid isPermaLink="false">https://www.ilpost.it/?p=3697209</guid>
-      <category>Sport</category>
-      <category>Jannik Sinner</category>
-      <category>tennis</category>
-    </item>
-    <item>
-      <title>Novak Djokovic ha vinto l’ATP 500 di Pechino, il suo primo torneo del 2026 e il 102esimo in carriera</title>
-      <link>https://www.ilpost.it/2026/10/06/djokovic-vittoria-atp-pechino-2026/</link>
-      <pubDate>Tue, 06 Oct 2026 12:48:24 +0000</pubDate>
-      <guid isPermaLink="false">https://www.ilpost.it/?p=3697060</guid>
-      <category>Bits</category>
-      <category>Sport</category>
-      <category>atp pechino</category>
-      <category>novak djokovic</category>
-      <category>tennis</category>
-    </item>
-    <item>
-      <title>Sinner non giocherà più fino al 2027</title>
-      <link>https://www.ilpost.it/2026/10/06/sinner-torna-nel-2027-cos-ha/</link>
-      <pubDate>Tue, 06 Oct 2026 08:40:58 +0000</pubDate>
-      <description>Ha detto che salterà il resto di questa stagione per l'infortunio al ginocchio</description>
-      <guid isPermaLink="false">https://www.ilpost.it/?p=3696926</guid>
-      <category>Sport</category>
-      <category>Jannik Sinner</category>
-      <category>tennis</category>
-    </item>
-    <item>
-      <title>Il pilota di Formula 1 che sta andando in bici da un Gran Premio all’altro</title>
-      <link>https://www.ilpost.it/2026/10/06/bottas-bici-gravel-singapore/</link>
-      <pubDate>Tue, 06 Oct 2026 07:22:44 +0000</pubDate>
-      <description>Valtteri Bottas ha deciso di percorrere in modo diverso i 350 chilometri che separano Sepang, in Malaysia, da Singapore</description>
-      <guid isPermaLink="false">https://www.ilpost.it/?p=3696735</guid>
-      <category>Sport</category>
-      <category>formula 1</category>
-      <category>gravel</category>
-      <category>Valtteri Bottas</category>
-    </item>
-    <item>
-      <title>Il tennista Daniil Medvedev è stato squalificato dal China Open per aver tirato una pallina contro uno spettatore</title>
-      <link>https://www.ilpost.it/2026/10/05/medvedev-djokovic-china-open-tennis/</link>
-      <pubDate>Mon, 05 Oct 2026 15:03:26 +0000</pubDate>
-      <guid isPermaLink="false">https://www.ilpost.it/?p=3696341</guid>
-      <category>Bits</category>
-      <category>Sport</category>
-      <category>china open</category>
-      <category>Daniil Medvedev</category>
-      <category>novak djokovic</category>
-      <category>tennis</category>
-    </item>
-    <item>
-      <title>Alle auto di Formula 1 serviva un aggiornamento software</title>
-      <link>https://www.ilpost.it/2026/10/05/guasto-bug-gran-premio-formula-1-bahrein-malaysia-spiegato-cose-successo/</link>
-      <pubDate>Mon, 05 Oct 2026 12:14:28 +0000</pubDate>
-      <description>Domenica a causa di un “bug” informatico alcune si sono fermate, e il Gran Premio è partito con grande ritardo</description>
-      <guid isPermaLink="false">https://www.ilpost.it/?p=3695841</guid>
-      <category>Sport</category>
-      <category>formula 1</category>
-      <category>gran premio bahrein</category>
-      <category>motorsport</category>
-    </item>
-    <item>
-      <title>Max Verstappen è tornato a vincere dopo quasi un anno</title>
-      <link>https://www.ilpost.it/2026/10/04/verstappen-gran-premio-formula-uno-sepang/</link>
-      <pubDate>Sun, 04 Oct 2026 10:27:46 +0000</pubDate>
-      <description>Ha battuto Antonelli e Hamilton a Sepang, in Malaysia, dove però si correva il Gran Premio del Bahrein</description>
-      <guid isPermaLink="false">https://www.ilpost.it/?p=3695583</guid>
-      <category>Sport</category>
-      <category>formula 1</category>
-      <category>max verstappen</category>
-      <category>motorsport</category>
-    </item>
-    <item>
-      <title>Marc Marquez ha vinto il Gran Premio del Giappone di MotoGP</title>
-      <link>https://www.ilpost.it/2026/10/04/marc-marquez-vittoria-moto-gp-giappone/</link>
-      <pubDate>Sun, 04 Oct 2026 06:11:22 +0000</pubDate>
-      <guid isPermaLink="false">https://www.ilpost.it/?p=3695486</guid>
-      <category>Bits</category>
-      <category>Sport</category>
-      <category>marc marquez</category>
-      <category>motogp</category>
-    </item>
-    <item>
-      <title>Jannik Sinner salterà anche il torneo Masters 1000 di Shanghai</title>
-      <link>https://www.ilpost.it/2026/10/03/jannik-sinner-non-giochera-masters-1000-shanghai/</link>
-      <pubDate>Sat, 03 Oct 2026 09:54:06 +0000</pubDate>
-      <description>Non gioca da quasi tre mesi sempre per il solito infortunio al ginocchio, di cui però si sa ben poco</description>
-      <guid isPermaLink="false">https://www.ilpost.it/?p=3695282</guid>
-      <category>Sport</category>
-      <category>Jannik Sinner</category>
-      <category>masters 1000 shanghai</category>
-      <category>tennis</category>
-    </item>
-    <item>
-      <title>Il Gran Premio del Bahrein è in Malaysia</title>
-      <link>https://www.ilpost.it/2026/10/02/perche-gran-premio-bahrein-in-malaysia/</link>
-      <pubDate>Fri, 02 Oct 2026 13:52:58 +0000</pubDate>
-      <description>A causa della guerra in Medio Oriente e per ragioni di geografia, politica e interessi della Formula 1</description>
-      <guid isPermaLink="false">https://www.ilpost.it/?p=3693460</guid>
-      <category>Sport</category>
-      <category>bahrein</category>
-      <category>formula 1</category>
-      <category>gran premio bahrein</category>
-      <category>guerra in medio oriente</category>
-      <category>Malaysia</category>
-      <category>motorsport</category>
-    </item>
-    <item>
-      <title>Un nuovo passo verso la parità dei premi nel tennis femminile</title>
-      <link>https://www.ilpost.it/2026/10/02/tennis-femminile-parita-montepremi-maschile/</link>
-      <pubDate>Fri, 02 Oct 2026 09:58:37 +0000</pubDate>
-      <description>Dal 2027 tutti i tornei WTA 1000 con un equivalente maschile, tra cui gli Internazionali d'Italia, avranno lo stesso montepremi per uomini e donne</description>
-      <guid isPermaLink="false">https://www.ilpost.it/?p=3694372</guid>
-      <category>Sport</category>
-      <category>internazionali d'Italia</category>
-      <category>tennis</category>
-      <category>wta</category>
-      <category>wta 1000</category>
-    </item>
-    <item>
-      <title>La Formula 1 tornerà a Imola?</title>
-      <link>https://www.ilpost.it/2026/09/30/imola-formula-1-cosa-sappiamo/</link>
-      <pubDate>Wed, 30 Sep 2026 06:27:27 +0000</pubDate>
-      <description>Potrebbe succedere il 6 dicembre, in quello che sarebbe l'ultimo Gran Premio dell'anno, ma non c'è ancora niente di deciso</description>
-      <guid isPermaLink="false">https://www.ilpost.it/?p=3690435</guid>
-      <category>Sport</category>
-      <category>formula 1</category>
-      <category>gran premio imola</category>
-      <category>imola</category>
-      <category>motorsport</category>
-    </item>
-    <item>
-      <title>Il pilota spagnolo Fernando Alonso, che ha 45 anni, gareggerà in Formula 1 anche nel 2027</title>
-      <link>https://www.ilpost.it/2026/09/29/alonso-2027/</link>
-      <pubDate>Tue, 29 Sep 2026 15:40:53 +0000</pubDate>
-      <guid isPermaLink="false">https://www.ilpost.it/?p=3691611</guid>
-      <category>Bits</category>
-      <category>Sport</category>
-      <category>aston martin</category>
-      <category>fernando alonso</category>
-      <category>formula 1</category>
-      <category>motorsport</category>
-    </item>
-    <item>
-      <title>George Russell ha vinto il Gran Premio di Formula 1 di Baku</title>
-      <link>https://www.ilpost.it/2026/09/26/gran-premio-baku-vittoria-russell-antonelli-risultato/</link>
-      <pubDate>Sat, 26 Sep 2026 12:44:26 +0000</pubDate>
-      <description>Restando in testa dall'inizio alla fine; Kimi Antonelli, che partiva sedicesimo, è arrivato quinto</description>
-      <guid isPermaLink="false">https://www.ilpost.it/?p=3689156</guid>
-      <category>Sport</category>
-      <category>formula 1</category>
-      <category>george russell</category>
-      <category>kimi antonelli</category>
-    </item>
-    <item>
-      <title>L’Italia ha perso la semifinale della Billie Jean King Cup di tennis</title>
-      <link>https://www.ilpost.it/2026/09/26/italia-ucraina-billie-jean-king-cup-eliminata-grant-paolini/</link>
-      <pubDate>Sat, 26 Sep 2026 12:12:50 +0000</pubDate>
-      <guid isPermaLink="false">https://www.ilpost.it/?p=3689152</guid>
-      <category>Bits</category>
-      <category>Sport</category>
-      <category>Billie Jean King Cup</category>
-      <category>jasmine paolini</category>
-      <category>tennis</category>
-      <category>tyra grant</category>
-    </item>
-    <item>
-      <title>Perché il Gran Premio d’Azerbaijan di Formula 1 si tiene di sabato</title>
-      <link>https://www.ilpost.it/2026/09/25/formula-1-baku-perche-si-corre-di-sabato-e-gia-successo/</link>
-      <pubDate>Fri, 25 Sep 2026 14:00:40 +0000</pubDate>
-      <description>Anziché di domenica, come da tradizione: c'entra una guerra di qualche anno fa, ma nel motorsport non è la prima volta che succede</description>
-      <guid isPermaLink="false">https://www.ilpost.it/?p=3688139</guid>
-      <category>Sport</category>
-      <category>azerbaijan</category>
-      <category>formula 1</category>
-      <category>Gran Premio di baku</category>
-      <category>motorsport</category>
-    </item>
-    <item>
-      <title>Jannik Sinner non giocherà l’ATP 500 di Pechino per lo stesso infortunio al ginocchio che gli ha già fatto saltare altri tornei</title>
-      <link>https://www.ilpost.it/2026/09/25/sinner-salta-torneo-pechino-ginocchio/</link>
-      <pubDate>Fri, 25 Sep 2026 11:22:22 +0000</pubDate>
-      <guid isPermaLink="false">https://www.ilpost.it/?p=3688421</guid>
-      <category>Bits</category>
-      <category>Sport</category>
-      <category>Jannik Sinner</category>
-      <category>tennis</category>
-    </item>
-    <item>
-      <title>L’Italia è in semifinale alla Billie Jean King Cup di tennis</title>
-      <link>https://www.ilpost.it/2026/09/24/italia-cina-billie-jean-king-cup/</link>
-      <pubDate>Thu, 24 Sep 2026 17:20:39 +0000</pubDate>
-      <guid isPermaLink="false">https://www.ilpost.it/?p=3687393</guid>
-      <category>Bits</category>
-      <category>Sport</category>
-      <category>Billie Jean King Cup</category>
-      <category>jasmine paolini</category>
-      <category>tennis</category>
-    </item>
-    <item>
-      <title>La Formula 1 ha deciso di accorciare i Gran Premi di 15 chilometri a partire dal 2027</title>
-      <link>https://www.ilpost.it/2026/09/22/la-formula-1-ha-deciso-di-accorciare-i-gran-premi-di-15-chilometri-a-partire-dal-2027/</link>
-      <pubDate>Tue, 22 Sep 2026 08:51:31 +0000</pubDate>
-      <guid isPermaLink="false">https://www.ilpost.it/?p=3685055</guid>
-      <category>Bits</category>
-      <category>Sport</category>
-      <category>formula 1</category>
-      <category>formula 1 2027</category>
-      <category>motorsport</category>
-    </item>
-    <item>
-      <title>In MotoGP Jorge Martín è arrivato secondo nel Gran Premio d’Austria ed è tornato primo in classifica da solo</title>
-      <link>https://www.ilpost.it/2026/09/20/motogp-austria-martin-acosta-2026/</link>
-      <pubDate>Sun, 20 Sep 2026 13:29:47 +0000</pubDate>
-      <guid isPermaLink="false">https://www.ilpost.it/?p=3683646</guid>
-      <category>Bits</category>
-      <category>Sport</category>
-      <category>jorge martin</category>
-      <category>marc marquez</category>
-      <category>motogp</category>
-    </item>
-    <item>
-      <title>Marc Márquez ha vinto il Gran Premio di San Marino ed è primo in MotoGP</title>
-      <link>https://www.ilpost.it/2026/09/13/marc-marquez-motogp-gran-premio-misano-primo-in-classifica/</link>
-      <pubDate>Sun, 13 Sep 2026 13:23:21 +0000</pubDate>
-      <description>A pari punti con Jorge Martín: nessuno se lo aspettava fino a pochi mesi fa</description>
-      <guid isPermaLink="false">https://www.ilpost.it/?p=3678062</guid>
-      <category>Sport</category>
-      <category>ducati</category>
-      <category>marc marquez</category>
-      <category>motogp</category>
-      <category>motorsport</category>
-    </item>
-    <item>
-      <title>Il “cavatappi” di Laguna Seca non è per tutti</title>
-      <link>https://www.ilpost.it/2026/09/03/cavatappi-laguna-seca-alex-zanardi-valentino-rossi/</link>
-      <pubDate>Thu, 03 Sep 2026 15:53:28 +0000</pubDate>
-      <description>La serie di curve più famosa del noto circuito statunitense verrà intitolata ad Alex Zanardi, per un suo famoso sorpasso</description>
-      <guid isPermaLink="false">https://www.ilpost.it/?p=3670244</guid>
-      <category>Sport</category>
-      <category>alex zanardi</category>
-      <category>automobilismo</category>
-      <category>Laguna Seca</category>
-      <category>motociclismo</category>
-      <category>motogp</category>
-      <category>valentino rossi</category>
-    </item>
-    <item>
-      <title>Marc Márquez vince anche «con un braccio e mezzo»</title>
-      <link>https://www.ilpost.it/2026/08/31/marc-marquez-gran-premio-aragon-motogp-classifica/</link>
-      <pubDate>Mon, 31 Aug 2026 13:43:54 +0000</pubDate>
-      <description>E nonostante un difficile inizio di stagione è ancora lì a giocarsi il Mondiale di MotoGP</description>
-      <guid isPermaLink="false">https://www.ilpost.it/?p=3667099</guid>
-      <category>Sport</category>
-      <category>ducati</category>
-      <category>marc marquez</category>
-      <category>motogp</category>
-      <category>motorsport</category>
-    </item>
-    <item>
-      <title>Esultare troppo presto, e alla fine non vincere</title>
-      <link>https://www.ilpost.it/2026/08/10/esultare-troppo-presto-gonzalez-moto2-a-chi-e-successo-prima/</link>
-      <pubDate>Mon, 10 Aug 2026 10:38:14 +0000</pubDate>
-      <description>Di recente è successo a un motociclista, ma capita spesso nello sport e non solo in quelli su due ruote: non si fa una gran figura</description>
-      <guid isPermaLink="false">https://www.ilpost.it/?p=3651953</guid>
-      <category>Sport</category>
-      <category>atletica leggera</category>
-      <category>calcio</category>
-      <category>ciclismo</category>
-      <category>moto2</category>
-      <category>motociclismo</category>
-      <category>motogp</category>
-      <category>motorsport</category>
-      <category>superbike</category>
-      <category>tennis</category>
-    </item>
-    <item>
-      <title>Dal 2027 il pilota di MotoGP Francesco Bagnaia gareggerà per l’Aprilia</title>
-      <link>https://www.ilpost.it/2026/06/25/francesco-bagnaia-pilota-aprilia-mondiale-motogp-2027/</link>
-      <pubDate>Thu, 25 Jun 2026 14:44:10 +0000</pubDate>
-      <guid isPermaLink="false">https://www.ilpost.it/?p=3614792</guid>
-      <category>Bits</category>
-      <category>Sport</category>
-      <category>aprilia</category>
-      <category>Francesco Bagnaia</category>
-      <category>motogp</category>
-      <category>motorsport</category>
-    </item>
-    <item>
-      <title>Francesco Bagnaia lascerà la Ducati alla fine del Mondiale di MotoGP</title>
-      <link>https://www.ilpost.it/2026/06/24/francesco-bagnaia-lascia-ducati-prossimo-mondiale-motogp/</link>
-      <pubDate>Wed, 24 Jun 2026 11:04:39 +0000</pubDate>
-      <guid isPermaLink="false">https://www.ilpost.it/?p=3613747</guid>
-      <category>Bits</category>
-      <category>Sport</category>
-      <category>ducati</category>
-      <category>Francesco Bagnaia</category>
-      <category>motogp</category>
-      <category>motorsport</category>
-    </item>
-    <item>
-      <title>Marco Bezzecchi rimarrà in testa al Mondiale di MotoGP</title>
-      <link>https://www.ilpost.it/2026/05/17/moto-gp-gran-premio-spagna-jerez-due-incidenti/</link>
-      <pubDate>Sun, 17 May 2026 14:42:20 +0000</pubDate>
-      <description>Dopo un Gran Premio di Catalogna con due brutti incidenti, vinto alla fine da un altro italiano, Fabio Di Giannantonio</description>
-      <guid isPermaLink="false">https://www.ilpost.it/?p=3584219</guid>
-      <category>Sport</category>
-      <category>fabio di giannantonio</category>
-      <category>Marco Bezzecchi</category>
-      <category>motogp</category>
-      <category>motorsport</category>
-    </item>
-    <item>
-      <title>Tornano le corse di moto, ma quelle con le moto “vere”</title>
-      <link>https://www.ilpost.it/2026/04/16/assen-superbike-mondiale-2026-guida-come-fuziona-cose-la-superbike-rapporto-con-motogp/</link>
-      <pubDate>Thu, 16 Apr 2026 14:30:22 +0000</pubDate>
-      <description>Dopo una pausa di qualche settimana venerdì riprende il campionato di Superbike – che è molto diverso dalla MotoGP, e ora la soffre un po'</description>
-      <guid isPermaLink="false">https://www.ilpost.it/?p=3561011</guid>
-      <category>Sport</category>
-      <category>moto</category>
-      <category>motogp</category>
-      <category>motorsport</category>
-      <category>superbike</category>
     </item>
   </channel>
 </rss>
