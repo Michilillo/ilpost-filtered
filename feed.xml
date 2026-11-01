@@ -7,10 +7,18 @@
     <language>it-IT</language>
     <ns0:link href="https://michilillo.github.io/ilpost-filtered/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Il Mondiale di Kimi Antonelli</title>
+      <link>https://www.ilpost.it/2026/11/01/kimi-antonelli-mondiale-2026-formula-1-gran-premi/</link>
+      <pubDate>Sun, 01 Nov 2026 22:34:41 +0000</pubDate>
+      <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/30/680x453/1793373784-AP26074329589958.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;Com'è andata gara-per-gara, ora che l'ha vinto</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/11/01/kimi-antonelli-mondiale-2026-formula-1-gran-premi/</guid>
+      <category>Sport</category>
+    </item>
+    <item>
       <title>È morto Juan Atkins, uno degli inventori della techno</title>
       <link>https://www.ilpost.it/2026/11/01/juan-atkins/</link>
       <pubDate>Sun, 01 Nov 2026 22:25:19 +0000</pubDate>
-      <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/01/680x428/1793569383-GettyImages-851234690.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;Con Derrick May e Kevin Saunderson, nella Detroit dei primi anni Ottanta immaginò la musica dance del futuro: aveva 64 anni</description>
+      <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/01/680x428/1793569383-GettyImages-851234690.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;Con Derrick May e Kevin Saunderson, nella Detroit degli anni Ottanta immaginò la musica dance del futuro: aveva 64 anni</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/11/01/juan-atkins/</guid>
       <category>Cultura</category>
     </item>
@@ -616,15 +624,6 @@
       <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/30/680x453/1793377729-24899164_large.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;Decine di migliaia di persone hanno sfilato in cortei in gran parte pacifici, con qualche tensione a Roma e a Torino</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/10/30/foto-sciopero-manifestazioni-italia/</guid>
       <category>Italia</category>
-    </item>
-    <item>
-      <title>Cosa non torna nei numeri sui morti per caldo in Italia</title>
-      <link>https://www.ilpost.it/2026/10/30/morti-caldo-italia-stime-diverse/</link>
-      <pubDate>Fri, 30 Oct 2026 11:39:31 +0000</pubDate>
-      <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/28/680x453/1793175008-ilpost_20261028090550689_7b26e57c6c7bde45e112a75efcb8d526.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;Il ministero della Salute parla di un incremento di mortalità «contenuto», mentre uno studio internazionale ha stimato uno scenario più preoccupante</description>
-      <guid isPermaLink="false">https://www.ilpost.it/2026/10/30/morti-caldo-italia-stime-diverse/</guid>
-      <category>Italia</category>
-      <category>Scienza</category>
     </item>
   </channel>
 </rss>
