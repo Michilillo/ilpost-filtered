@@ -7,6 +7,14 @@
     <language>it-IT</language>
     <ns0:link href="https://michilillo.github.io/ilpost-filtered/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Perché internet funziona peggio di una volta</title>
+      <link>https://www.ilpost.it/2026/11/03/perche-internet-funziona-peggio-enshittification/</link>
+      <pubDate>Tue, 03 Nov 2026 10:04:26 +0000</pubDate>
+      <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/680x453/1793700197-enshittification-Altrecose.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;Google, Instagram, Amazon: non è un’impressione, scrive Cory Doctorow in “Enshittification”, il nuovo libro di Altrecose</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/11/03/perche-internet-funziona-peggio-enshittification/</guid>
+      <category>Libri</category>
+    </item>
+    <item>
       <title>L’inchiesta sulle ricostruzioni dopo il terremoto nelle Marche</title>
       <link>https://www.ilpost.it/2026/11/03/marche-indagine-ricostruzioni-sisma-2016/</link>
       <pubDate>Tue, 03 Nov 2026 09:29:03 +0000</pubDate>
@@ -507,14 +515,6 @@
       <guid isPermaLink="false">https://www.ilpost.it/2026/11/01/mosca-avvertimento-attentato-palazzo-tsaritsyno-arresto/</guid>
       <category>Bits</category>
       <category>Mondo</category>
-    </item>
-    <item>
-      <title>La prima partita nella storia dell’NBA</title>
-      <link>https://www.ilpost.it/2026/11/01/prima-partita-nba-80-anni/</link>
-      <pubDate>Sun, 01 Nov 2026 15:41:22 +0000</pubDate>
-      <description>&lt;div&gt;&lt;img src="https://www.ilpost.it/wp-content/uploads/2026/10/30/680x453/1793361765-GettyImages-514957538.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;Il più famoso campionato di basket al mondo iniziò 80 anni fa in Canada con un altro nome</description>
-      <guid isPermaLink="false">https://www.ilpost.it/2026/11/01/prima-partita-nba-80-anni/</guid>
-      <category>Sport</category>
     </item>
   </channel>
 </rss>
