@@ -7,6 +7,14 @@
     <language>it-IT</language>
     <ns0:link href="https://michilillo.github.io/ilpost-filtered/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Microsoft dice che i suoi servizi ora funzionano</title>
+      <link>https://www.ilpost.it/2026/11/14/microsoft-servizi-funzionano/</link>
+      <pubDate>Sat, 14 Nov 2026 07:32:56 +0000</pubDate>
+      <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/14/680x453/1794641384-AP26313845602625.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;E che il guasto non è stato causato da un attacco informatico</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/11/14/microsoft-servizi-funzionano/</guid>
+      <category>Tecnologia</category>
+    </item>
+    <item>
       <title>Gli Stati Uniti hanno detto di aver risposto all’attività sospetta di un drone in una base britannica</title>
       <link>https://www.ilpost.it/2026/11/14/stati-uniti-drone-raf-lakenheath/</link>
       <pubDate>Sat, 14 Nov 2026 06:56:03 +0000</pubDate>
@@ -498,15 +506,6 @@
       <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/12/680x453/1794484155-AP24294268067807.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;Tra il presidente e l'ex presidente: c'entrano scandali di intercettazioni che mettono a rischio la stabilità del paese</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/11/12/prabowo-widodo-indonesia-alleanza/</guid>
       <category>Mondo</category>
-    </item>
-    <item>
-      <title>Sono stati sorteggiati i gironi delle ATP Finals di tennis</title>
-      <link>https://www.ilpost.it/2026/11/12/atp-finals-2026-gironi-cobolli/</link>
-      <pubDate>Thu, 12 Nov 2026 12:50:40 +0000</pubDate>
-      <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/12/680x453/1794487736-Cobolli.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.ilpost.it/2026/11/12/atp-finals-2026-gironi-cobolli/</guid>
-      <category>Bits</category>
-      <category>Sport</category>
     </item>
   </channel>
 </rss>
