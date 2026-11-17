@@ -7,6 +7,16 @@
     <language>it-IT</language>
     <ns0:link href="https://michilillo.github.io/ilpost-filtered/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>La California ha fatto causa a OpenAI per l’attacco informatico alla piattaforma Hugging Face</title>
+      <link>https://www.ilpost.it/2026/11/17/hugging-face-open-ai-attacco-informatico/</link>
+      <pubDate>Tue, 17 Nov 2026 08:36:47 +0000</pubDate>
+      <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/17/680x453/1794901478-AP26272702716109.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/11/17/hugging-face-open-ai-attacco-informatico/</guid>
+      <category>Bits</category>
+      <category>Mondo</category>
+      <category>Tecnologia</category>
+    </item>
+    <item>
       <title>È stato ucciso il giornalista Camilo Rodríguez, noto per le inchieste su narcotraffico e corruzione in Costa Rica</title>
       <link>https://www.ilpost.it/2026/11/17/giornalista-camilo-rodriguez-ucciso-costa-rica/</link>
       <pubDate>Tue, 17 Nov 2026 08:02:16 +0000</pubDate>
@@ -624,14 +634,6 @@
       <guid isPermaLink="false">https://www.ilpost.it/2026/11/14/incidente-san-fili/</guid>
       <category>Bits</category>
       <category>Italia</category>
-    </item>
-    <item>
-      <title>Com’è andato il primo Eurovision asiatico</title>
-      <link>https://www.ilpost.it/2026/11/14/primo-eurovision-asiatico/</link>
-      <pubDate>Sat, 14 Nov 2026 18:40:16 +0000</pubDate>
-      <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/14/680x453/1794680051-evi.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;Ha vinto la cantante filippina Carmelle, la più giovane in gara, in una serata che non ha generato grossi entusiasmi</description>
-      <guid isPermaLink="false">https://www.ilpost.it/2026/11/14/primo-eurovision-asiatico/</guid>
-      <category>Cultura</category>
     </item>
   </channel>
 </rss>
