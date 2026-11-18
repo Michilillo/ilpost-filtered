@@ -7,10 +7,19 @@
     <language>it-IT</language>
     <ns0:link href="https://michilillo.github.io/ilpost-filtered/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Un’azienda ha scoperto con l’AI una falla nel linguaggio di programmazione Java</title>
+      <link>https://www.ilpost.it/2026/11/18/scoperta-falla-java-intelligenza-artificiale/</link>
+      <pubDate>Wed, 18 Nov 2026 12:10:34 +0000</pubDate>
+      <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/18/680x453/1795002392-GettyImages-2217725505.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/11/18/scoperta-falla-java-intelligenza-artificiale/</guid>
+      <category>Bits</category>
+      <category>Internet</category>
+    </item>
+    <item>
       <title>Storia di un cambio di genere eccezionale</title>
       <link>https://www.ilpost.it/2026/11/18/transizione-di-genere-documentazione-clinica-primo-caso-noto/</link>
       <pubDate>Wed, 18 Nov 2026 12:06:10 +0000</pubDate>
-      <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/18/680x453/1794996543-AP26223774235888.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;Per la prima volta in Italia una persona ha potuto modificare nome e genere senza dover documentare un percorso clinico</description>
+      <description>&lt;div&gt;&lt;img src="https://www.ilpost.it/wp-content/uploads/2026/11/18/680x453/1794996543-AP26223774235888.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;Per la prima volta in Italia una persona ha potuto modificare nome e genere senza dover documentare un percorso clinico</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/11/18/transizione-di-genere-documentazione-clinica-primo-caso-noto/</guid>
       <category>Italia</category>
     </item>
@@ -717,15 +726,6 @@
       <guid isPermaLink="false">https://www.ilpost.it/2026/11/16/burnham-critiche-brexit-2026/</guid>
       <category>Mondo</category>
       <category>virgolette</category>
-    </item>
-    <item>
-      <title>Sei grafici per capire quanto sono messe male le regioni sulla sanità</title>
-      <link>https://www.ilpost.it/2026/11/16/sei-grafici-problemi-sanita-italia/</link>
-      <pubDate>Mon, 16 Nov 2026 12:20:11 +0000</pubDate>
-      <description>&lt;div&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/16/680x453/1794830347-24314068_large.jpg" style="width:100%" class="webfeedsFeaturedVisual"&gt;&lt;/div&gt;Nel 2025 le spese hanno superato le entrate di 3,5 miliardi di euro</description>
-      <guid isPermaLink="false">https://www.ilpost.it/2026/11/16/sei-grafici-problemi-sanita-italia/</guid>
-      <category>Italia</category>
-      <category>Politica</category>
     </item>
   </channel>
 </rss>
